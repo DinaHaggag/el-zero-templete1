@@ -1,0 +1,13 @@
+:root {
+   --main-color: #10cab7;
+   --secondary-color: #2c4755;
+}
+.land{
+   background-image: url("../images/landing.jpg");
+   background-size:contain;
+   height: 500px;
+}
+
+h1{
+   color: var(--main-color);
+}
